@@ -1,1 +1,1 @@
-threatbook/hfish-server:3.3.5
+wpscanteam/wpscan
